@@ -1,0 +1,3 @@
+Genome length: 4641652
+Total windows: 9274
+Predicted ORI position: 3924500

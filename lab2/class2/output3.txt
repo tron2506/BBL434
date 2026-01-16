@@ -1,0 +1,2 @@
+Genome length: 4641652
+Total windows: 9274

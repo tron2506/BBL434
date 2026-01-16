@@ -1,0 +1,7 @@
+--- ORI Signal Checker Results ---
+Parameters: k=8, window=5000, step=500
+
+Top Enriched K-mers:
+Sequence: ATGATCAT | Total Occurrences: 400
+Sequence: CATGATCA | Total Occurrences: 169
+Sequence: TGATCATG | Total Occurrences: 149
